@@ -1,11 +1,11 @@
 # Intelligent Document Processing Model
 Welcome to the repository for the Intelligent Document Processing (IDP) model! This machine learning model is designed to read and extract data from various types of documents, transforming unstructured content into actionable insights with high accuracy.
 
-#Features
-Document Reading: Capable of interpreting text from scanned images, PDFs, and other document formats.
-Data Extraction: Identifies and extracts relevant data fields such as names, dates, and numerical values.
-Customizable: Easily adaptable to different document types and data extraction needs.
-High Accuracy: Utilizes advanced machine learning techniques to ensure precise data extraction.
+# Features
+* Document Reading: Capable of interpreting text from scanned images, PDFs, and other document formats.
+* Data Extraction: Identifies and extracts relevant data fields such as names, dates, and numerical values.
+* Customizable: Easily adaptable to different document types and data extraction needs.
+* High Accuracy: Utilizes advanced machine learning techniques to ensure precise data extraction.
 
 # Installation
 To get started with the IDP model, follow these steps:
