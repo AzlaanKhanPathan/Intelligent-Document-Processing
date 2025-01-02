@@ -46,7 +46,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Acknowledgments
 Thanks to all contributors and libraries that have made this project possible. Special thanks to the open-source community for their invaluable tools and resources.
 
-For more information, check out the Documentation or open an issue if you have any questions or feedback!
+Open an issue if you have any questions or feedback!
 
 Feel free to customize this description according to the specifics of your project!
 
